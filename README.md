@@ -43,7 +43,7 @@ Para instalar dependências dentro do seu ambiente virtual, abra o terminal e ex
     pip freeze
     
 
-#### Caso o Ambiente virtual esteja desativado, é possível ativá-lo de forma manual no terminal ***(Command Prompt)***
+Caso o Ambiente virtual esteja desativado, é possível ativá-lo de forma manual no terminal ***(Command Prompt)***
 ##### Abrir pastas
     cd .venv
     cd Scripts

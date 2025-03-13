@@ -11,7 +11,7 @@ Documentação .venv - https://docs.python.org/3/library/venv.html
 Ambiente Virtual é um local, uma pasta isolada no seu computador, que possui dentro dela, instalações específicas (bibliotecas, versões). O que está fora dessa pasta não afeta o que está dentro dela ou ao contrário.
 
 ## 🖥️ Pra quê serve um Ambiente Virtual?
-O Ambiente Virtual garente que dentro dele tenham somente as bibliotecas e instalações que o meu código usa. Ou seja, o arquivo executável se torna menor.
+O Ambiente Virtual garante que dentro dele tenham somente as bibliotecas e instalações que o meu código usa. Ou seja, o arquivo executável se torna menor.
 
 Por exemplo, existem ferramentas que necessitam de uma versão específica do Python, então seria necessária a criação desse Ambiente Virtual para que sejam integradas. 
 
